@@ -1,0 +1,2 @@
+# hardcore
+just another project
